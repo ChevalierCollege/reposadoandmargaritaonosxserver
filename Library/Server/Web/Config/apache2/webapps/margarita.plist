@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>name</key>
+  <string>au.edu.nsw.chevalier.it.margarita.plist</string>
+  <key>displayName</key>
+  <string>Margarita</string>
+  <key>launchKeys</key>
+  <array/>
+  <key>proxies</key>
+  <dict/>
+  <key>installationIndicatorFilePath</key>
+  <string>/usr/local/updates/margarita/margarita.py</string>
+  <key>includeFiles</key>
+  <array>
+    <string>/Library/Server/Web/Config/apache2/httpd_margarita.conf</string>
+  </array>
+  <key>requiredModuleNames</key>
+  <array>
+    <string>wsgi_module</string>
+  </array>
+</dict>
+</plist>
